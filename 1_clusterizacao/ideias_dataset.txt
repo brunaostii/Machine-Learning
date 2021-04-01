@@ -1,0 +1,3 @@
+https://www.kaggle.com/rohan0301/unsupervised-learning-on-country-data
+https://www.kaggle.com/akram24/wine-pca
+https://www.kaggle.com/flyingwombat/us-news-and-world-reports-college-data
